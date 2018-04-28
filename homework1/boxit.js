@@ -1,6 +1,6 @@
 let myArgs = process.argv.slice(2);
 
-console.log(maxNameLength(myArgs));
+// console.log(maxNameLength(myArgs));
 
 function maxNameLength(names) {
     let maxLength = 0
